@@ -6,6 +6,10 @@ This Ai is designed to use PyTorch without the need for Transformers/TensorFlow.
 if you would like to help in making this ai great, send me training datasets files or URLs for files and I will train the ai, or train the ai yourself and send the exported model. 
 the first ever model for this ai will be named "Vuaxon A1" 
 
+Run These :
+`git clone https://github.com/axom0022/axomic-ai.git`
+`cd axomic-ai`
+
 Install Requirements :
 `pip install -r requirements.txt`
 
